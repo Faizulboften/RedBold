@@ -8,10 +8,10 @@ def clear():
     os.system('clear')
 def baner():
     print(' 
-\033[31;1m/ /   /  _/ //_// ____/ __ \         \033[32;1mDEVLOPER : Faizul Boften               
-\033[31;1m/ /    / // ,<  / __/ / /_/ /        \033[32;1mFACEBOOK : Faizul
-\033[37;1m/ /____/ // /| |/ /___/ _, _/        \033[32;1mWHATSAPP : 082271426251
-\033[37;1m/_____/___/_/ |_/_____/_/ |_|        \033[32;1mGITHUB   :https://github/Faizulboften')
+print('\033[31;1m/ /   /  _/ //_// ____/ __ \         \033[32;1mDEVLOPER : Faizul Boften')               
+print('\033[31;1m/ /    / // ,<  / __/ / /_/ /        \033[32;1mFACEBOOK : Faizul')
+print('\033[37;1m/ /____/ // /| |/ /___/ _, _/        \033[32;1mWHATSAPP : 082271426251')
+print('\033[37;1m/_____/___/_/ |_/_____/_/ |_|        \033[32;1mGITHUB   :https://github/Faizulboften')
 die=0
 chek=0
 result=0
